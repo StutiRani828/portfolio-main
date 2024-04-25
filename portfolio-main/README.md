@@ -5,7 +5,7 @@ Table of Contents
 Projects
 Technologies:HTML/CSS javascripts
 Contributions: Individual
-Contact:jitendra.sharma7375@gmail.com
+Contact:stutirani828@gmail.com
 Project Name :My Portfolio
 
 Thank you for visiting my portfolio! I look forward to connecting with you.
